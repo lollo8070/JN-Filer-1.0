@@ -1,6 +1,16 @@
 # JN-Filer-1.0
 Nogle gratis udviklede VRP filer, med masser af fede scripts
 
+JN-Filer er nogle Gratis VRP filer.
+
+Nogle scripts er fundet på nettet, og er derfor gratis. Mange er også selvlavet og lavet om.
+Meningen med filerne er at de er færdiggjorte, gode og gratis, så man ikke behøver selv at sidde og rode med scripts og fejl. De er klar til RP uden fejl. Gå ind i⁠jn-filer-teaser , for at se nogle af de ting der er i filerne. I kan også gå ind på ⁠⁠changelog, for at se hvad der bliver lavet på serveren.
+
+Filerne er gennemtestet og klar til brug med massere af fede funktioner.
+
+pris 
+0.- 
+
 Disse filer er der blevet lagt meget lang tid i.
 
 Hvis i vil vide mere om vores shop eller om filerne kan i besøge:
